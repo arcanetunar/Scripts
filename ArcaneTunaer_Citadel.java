@@ -164,7 +164,7 @@ public class Citadel  extends ActiveScript{
 	     	GridLayout grid;
 	     	Container pane;
 
-	     	JLabel label1 = new JLabel("AIO Fletcher by ArcaneTunar");
+	     	JLabel label1 = new JLabel("Citadel by ArcaneTunar");
 	     	JComboBox<String> comboType = new JComboBox<String>();
 	     	JButton btnStart = new JButton("Start");
 
